@@ -1,0 +1,6 @@
+{
+  "name": "LexiScore",
+  "description": "AI-powered English proficiency test preparation and mock examination platform for PTE Academic, PTE Core, IELTS Academic, IELTS General Training, and Duolingo English Test.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
